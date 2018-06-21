@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Vidjagaim</string>
+
+   <string-array name="type">
+        <item>New Game</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </string-array>
+    <string name="default_text">Memory Game 1.2</string>
+    <string name="layout">Layout</string>
+    <string name="image_description">This is an image</string>
+    <string name="web_site">http://www.aviyehuda.com</string>
+    
+</resources>
